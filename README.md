@@ -128,8 +128,7 @@ It’s better to flush the topology with  ```sudo mn -c```  and to stop the VM w
 <img src="https://user-images.githubusercontent.com/98694899/154029905-d5c731e6-3058-45f3-aa0d-12e1b59d7b82.jpg" width="30%" height="30%">
 
 <br>• We performed a topology slicing in each network. We also wanted to connect two slices with a third one.<br>
-_Note_: 2 slices remain separated, and use their own logic (see the image below).<br>
-<br>
+_Note_: 2 slices remain separated, and use their own logic (see the image below).<br><br>
 
 ### TOPOLOGY<br>
 
